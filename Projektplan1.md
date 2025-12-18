@@ -2,7 +2,7 @@
 
 1.1 Projekttitel
 
-Användartillgänglighet i e-learning: En litteraturstudie om för- och nackdelar i moderna digitala utbildningsmiljöer
+Användartillgänglighet i e-learning: En litteraturstudie om för- och nackdelar i moderna digitala utbildningsmiljöer.
 
 1.2 Projekttyp
 
